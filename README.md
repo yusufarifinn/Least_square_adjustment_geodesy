@@ -1,2 +1,2 @@
 # Least_square_adjustment_geodesy
-Landasan dasar dan contoh perhitungan hitung perataan kuadrat terkecil pada keilmuan Geodesi
+Landasan dasar perhitungan perataan kuadrat terkecil pada pekerjaan surveying di keilmuan Geodesi.
